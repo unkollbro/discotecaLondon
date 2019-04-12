@@ -1,0 +1,3 @@
+DNI;Invitado1;21
+DNI;Invitado2;25
+DNI;Invitado3;22
